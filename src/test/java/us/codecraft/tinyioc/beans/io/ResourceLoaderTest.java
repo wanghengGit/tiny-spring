@@ -8,6 +8,8 @@ import java.io.InputStream;
 
 /**
  * @author yihua.huang@dianping.com
+ * @author kit
+ * @date 20201102
  */
 public class ResourceLoaderTest {
 

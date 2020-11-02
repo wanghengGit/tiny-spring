@@ -10,6 +10,8 @@ import java.lang.reflect.Proxy;
  * 基于jdk的动态代理
  * 
  * @author yihua.huang@dianping.com
+ * @author kit
+ * @date 20201102
  */
 public class JdkDynamicAopProxy extends AbstractAopProxy implements InvocationHandler {
 

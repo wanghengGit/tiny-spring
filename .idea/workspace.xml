@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9f3b7db-fd98-4a69-ab4c-4826296f2b26" name="Default Changelist" comment="" />
+    <list default="true" id="e9f3b7db-fd98-4a69-ab4c-4826296f2b26" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/aop/Cglib2AopProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/aop/Cglib2AopProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/aop/TargetSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/aop/TargetSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/HelloWorldServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/HelloWorldServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/AspectJExpressionPointcutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/AspectJExpressionPointcutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/Cglib2AopProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/Cglib2AopProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/TimerInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/TimerInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/beans/io/ResourceLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/beans/io/ResourceLoaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/beans/xml/XmlBeanDefinitionReaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/beans/xml/XmlBeanDefinitionReaderTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,26 +26,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/BeanDefinition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/context/ApplicationContext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>output</find>
+      <find>Invocation of Method output</find>
+      <find>Invocation of Method</find>
+      <find>Hello World!</find>
+      <find>开始调用</find>
+      <find>tinyioc-post</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,6 +58,18 @@
         <option value="$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/factory/AbstractBeanFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/BeanDefinition.java" />
         <option value="$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/context/ApplicationContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/doc" />
+        <option value="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/HelloWorldServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/aop/TargetSource.java" />
+        <option value="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/TimerInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/Cglib2AopProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/tinyioc.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/AspectJExpressionPointcutTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/aop/Cglib2AopProxy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/beans/io/ResourceLoaderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/beans/xml/XmlBeanDefinitionReaderTest.java" />
       </list>
     </option>
   </component>
@@ -125,7 +140,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tiny-spring" type="b2602c69:ProjectViewProjectNode" />
@@ -135,13 +150,51 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
               <item name="beans" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tiny-spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="tiny-spring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tiny-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiny-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tiny-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiny-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tiny-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiny-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tiny-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiny-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tiny-spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiny-spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
               <item name="beans" type="462c0819:PsiDirectoryNode" />
@@ -151,7 +204,7 @@
               <item name="tiny-spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="tiny-spring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
               <item name="beans" type="462c0819:PsiDirectoryNode" />
@@ -161,7 +214,7 @@
               <item name="tiny-spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="tiny-spring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tinyioc" type="462c0819:PsiDirectoryNode" />
               <item name="context" type="462c0819:PsiDirectoryNode" />
@@ -171,6 +224,7 @@
               <item name="tiny-spring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,6 +253,79 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.XmlBeanDefinitionReaderTest">
+    <configuration name="AspectJExpressionPointcutTest.testClassFilter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tiny-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="us.codecraft.tinyioc.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="us.codecraft.tinyioc.aop" />
+      <option name="MAIN_CLASS_NAME" value="us.codecraft.tinyioc.aop.AspectJExpressionPointcutTest" />
+      <option name="METHOD_NAME" value="testClassFilter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cglib2AopProxyTest.testInterceptor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tiny-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="us.codecraft.tinyioc.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="us.codecraft.tinyioc.aop" />
+      <option name="MAIN_CLASS_NAME" value="us.codecraft.tinyioc.aop.Cglib2AopProxyTest" />
+      <option name="METHOD_NAME" value="testInterceptor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResourceLoaderTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tiny-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="us.codecraft.tinyioc.beans.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="us.codecraft.tinyioc.beans.io" />
+      <option name="MAIN_CLASS_NAME" value="us.codecraft.tinyioc.beans.io.ResourceLoaderTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XmlBeanDefinitionReaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tiny-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="us.codecraft.tinyioc.beans.xml.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="us.codecraft.tinyioc.beans.xml" />
+      <option name="MAIN_CLASS_NAME" value="us.codecraft.tinyioc.beans.xml.XmlBeanDefinitionReaderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.XmlBeanDefinitionReaderTest" />
+        <item itemvalue="JUnit.ResourceLoaderTest.test" />
+        <item itemvalue="JUnit.AspectJExpressionPointcutTest.testClassFilter" />
+        <item itemvalue="JUnit.Cglib2AopProxyTest.testInterceptor" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -211,25 +338,60 @@
       <updated>1586834220706</updated>
       <workItem from="1586834223693" duration="2615000" />
       <workItem from="1586840296213" duration="425000" />
+      <workItem from="1604287947375" duration="4172000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Cglib2AopProxyTest_testInterceptor - 2020.11.02 at 13h 36m 17s.xml">
+      <configuration name="Cglib2AopProxyTest.testInterceptor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Cglib2AopProxyTest_testInterceptor - 2020.11.02 at 13h 36m 35s.xml">
+      <configuration name="Cglib2AopProxyTest.testInterceptor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Cglib2AopProxyTest_testInterceptor - 2020.11.02 at 13h 36m 56s.xml">
+      <configuration name="Cglib2AopProxyTest.testInterceptor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Cglib2AopProxyTest_testInterceptor - 2020.11.02 at 13h 37m 13s.xml">
+      <configuration name="Cglib2AopProxyTest.testInterceptor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Cglib2AopProxyTest_testInterceptor - 2020.11.02 at 13h 43m 45s.xml">
+      <configuration name="Cglib2AopProxyTest.testInterceptor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Cglib2AopProxyTest_testInterceptor - 2020.11.02 at 13h 44m 22s.xml">
+      <configuration name="Cglib2AopProxyTest.testInterceptor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Cglib2AopProxyTest_testInterceptor - 2020.11.02 at 13h 46m 40s.xml">
+      <configuration name="Cglib2AopProxyTest.testInterceptor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AspectJExpressionPointcutTest_testClassFilter - 2020.11.02 at 13h 51m 05s.xml">
+      <configuration name="AspectJExpressionPointcutTest.testClassFilter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ResourceLoaderTest_test - 2020.11.02 at 13h 52m 49s.xml">
+      <configuration name="ResourceLoaderTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="XmlBeanDefinitionReaderTest - 2020.11.02 at 13h 56m 57s.xml">
+      <configuration name="XmlBeanDefinitionReaderTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4882000" />
+    <option name="totallyTimeSpent" value="9054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2246596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Sequence" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38360655" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41639343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -252,39 +414,41 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/Cglib2AopProxyTest.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/AspectJExpressionPointcutTest.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/beans/io/ResourceLoaderTest.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/beans/xml/XmlBeanDefinitionReaderTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/AbstractBeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/xml/XmlBeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/BeanDefinitionReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/context/AbstractApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/context/ClassPathXmlApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -334,20 +498,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/io/UrlResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/io/ResourceLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/factory/BeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -362,24 +512,263 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/factory/AbstractBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-415" />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/BeanDefinition.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/doc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="498">
+          <caret line="182" selection-start-line="182" selection-end-line="182" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/context/ApplicationContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        <state relative-caret-position="107">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/aop/TargetSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/aop/AbstractAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src+/test/java/com/ysj/aop/TimerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/OutputService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/OutputServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Repository/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar!/org/aopalliance/intercept/MethodInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/HelloWorldService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/HelloWorldServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/TimerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/aop/Cglib2AopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-142">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/JdkDynamicAopProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="34" column="59" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/AspectJExpressionPointcutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="19" column="79" lean-forward="true" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/io/UrlResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/io/ResourceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/beans/io/ResourceLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/beans/xml/XmlBeanDefinitionReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/BeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/aop/Cglib2AopProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/context/ClassPathXmlApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/context/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/factory/AbstractBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/AbstractBeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/tinyioc/beans/xml/XmlBeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="65" column="10" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/BeanFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="36" column="60" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/tinyioc-postbeanprocessor.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/tinyioc/context/ApplicationContextTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="19" column="88" lean-forward="true" selection-start-line="19" selection-start-column="88" selection-end-line="19" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/tinyioc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
         </state>
       </provider>
     </entry>

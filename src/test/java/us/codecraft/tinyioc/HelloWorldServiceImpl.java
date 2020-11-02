@@ -2,6 +2,8 @@ package us.codecraft.tinyioc;
 
 /**
  * @author yihua.huang@dianping.com
+ * @author kit
+ * @date 20201102
  */
 public class HelloWorldServiceImpl implements HelloWorldService {
 

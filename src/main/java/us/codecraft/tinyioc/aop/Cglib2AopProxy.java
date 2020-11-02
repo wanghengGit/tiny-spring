@@ -8,6 +8,8 @@ import java.lang.reflect.Method;
 
 /**
  * @author yihua.huang@dianping.com
+ * @author kit
+ * @date 20201102
  */
 public class Cglib2AopProxy extends AbstractAopProxy {
 

@@ -8,6 +8,8 @@ import us.codecraft.tinyioc.context.ClassPathXmlApplicationContext;
 
 /**
  * @author yihua.huang@dianping.com
+ * @author kit
+ * @date 20201102
  */
 public class JdkDynamicAopProxyTest {
 

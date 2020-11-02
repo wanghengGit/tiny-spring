@@ -3,6 +3,8 @@ package us.codecraft.tinyioc.aop;
 /**
  * 被代理的对象
  * @author yihua.huang@dianping.com
+ * @author kit
+ * @date 20201102
  */
 public class TargetSource {
 
