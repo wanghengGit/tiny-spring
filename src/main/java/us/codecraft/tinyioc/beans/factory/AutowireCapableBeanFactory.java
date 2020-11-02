@@ -12,6 +12,8 @@ import java.lang.reflect.Method;
  * 可自动装配内容的BeanFactory
  * 
  * @author yihua.huang@dianping.com
+ * @author kit
+ * @date 20201102
  */
 public class AutowireCapableBeanFactory extends AbstractBeanFactory {
 

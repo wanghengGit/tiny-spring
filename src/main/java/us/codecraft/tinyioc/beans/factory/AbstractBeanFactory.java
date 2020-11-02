@@ -11,6 +11,8 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @author yihua.huang@dianping.com
+ * @author kit
+ * @date 20201102
  */
 public abstract class AbstractBeanFactory implements BeanFactory {
 
